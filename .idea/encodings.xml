@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/gbs-admin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbs-app-config/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbs-auth/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbs-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbs-gateway/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/gbs-vendor/src/main/java" charset="UTF-8" />
+  </component>
+</project>
